@@ -1,0 +1,8 @@
+C:\Users\Natalia\source\repos\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.csproj.AssemblyReference.cache
+C:\Users\Natalia\source\repos\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.FormProduto.resources
+C:\Users\Natalia\source\repos\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.frm.resources
+C:\Users\Natalia\source\repos\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.Properties.Resources.resources
+C:\Users\Natalia\source\repos\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.csproj.GenerateResource.cache
+C:\Users\Natalia\source\repos\ProjetoCadastro\ProjetoCadastro\obj\Debug\RdlCompile.cache
+C:\Users\Natalia\source\repos\ProjetoCadastro\ProjetoCadastro\obj\Debug\RdlCompile.compiled
+C:\Users\Natalia\source\repos\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.csproj.CoreCompileInputs.cache
